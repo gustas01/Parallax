@@ -1,5 +1,6 @@
 # Efeito Parallax
- Página simples, apenas para implementar o efeito parallax (CSS e HTML) <hr>
+ Página simples, apenas para implementar o efeito parallax <br>
+ Tecnologias usadas: HTML e CSS <hr>
  
  Alguns prints para ilustrar o site
 <img src="imagens/print1.JPG">
