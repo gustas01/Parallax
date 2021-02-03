@@ -7,5 +7,5 @@
 <img src="imagens/print3.JPG">
 
 
-Porém para visualizar melhor o efeito, é recomendado abri-lo diretamente no link
+Porém para melhor vizualização do efeito, é recomendado abri-lo diretamente no link
 https://gustas01.github.io/Parallax/
